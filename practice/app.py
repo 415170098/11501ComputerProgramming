@@ -8,7 +8,7 @@ def home():
    
 @app.route("/math")
 def math():
-    return "Hello, World!"
+    return "我數導考0分，程設8分，謝謝大家"
 
 @app.route("/html_tags")
 def html_tags():
